@@ -379,4 +379,4 @@ SELECT * FROM EmployeeReport;
 
 Диаграмма в DBeaver:
 
-![Диаграмма в DBeaver](https://raw.githubusercontent.com/nikolaykonkin/database-design-hw/main/dbeaver_diagram.png)
+![Скриншот-DBeaver](https://github.com/nikolaykonkin/database-design-hw/blob/main/dbeaver_diagram.png)
