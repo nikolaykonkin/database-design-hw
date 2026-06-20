@@ -105,6 +105,10 @@
 
 Разверните СУБД Postgres на своей хостовой машине, на виртуальной машине или в контейнере docker. Опишите схему, полученную в предыдущем задании, с помощью скрипта SQL. Создайте в вашей полученной СУБД новую базу данных и выполните полученный ранее скрипт для создания вашей модели данных. В качестве решения приложите SQL-скрипт и скриншот диаграммы.
 
+Диаграмма в DBeaver:
+
+![Диаграмма в DBeaver](https://github.com/nikolaykonkin/database-design-hw/main/dbeaver.png)
+
 SQL-скрипт:
 
 ```sql
@@ -376,7 +380,3 @@ $$ LANGUAGE plpgsql;
 SELECT load_employee_data();
 
 SELECT * FROM EmployeeReport;
-
-Диаграмма в DBeaver:
-
-![Диаграмма в DBeaver](https://github.com/nikolaykonkin/database-design-hw/raw/main/dbeaver.png)
